@@ -1,4 +1,6 @@
 /**
+ * 287. Find the Duplicate Number
+ * 
  * In this solution, I learnt using a Set in js.
  * Set has apis such as: .add(), .delete(), .clear(), .has(), .size(), etc
  * 
